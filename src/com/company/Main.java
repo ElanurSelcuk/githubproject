@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Fourth Class");
         System.out.println("Fifth One");
         System.out.println("sixth one");
+        System.out.println("seventh class");
     }
 }
