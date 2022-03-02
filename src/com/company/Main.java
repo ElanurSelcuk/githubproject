@@ -13,5 +13,8 @@ public class Main {
         System.out.println("seventh class");
         System.out.println("eight class");
         System.out.println("1st class");
+        System.out.println("2nd class");
+        System.out.println("3rd class");
+
     }
 }
